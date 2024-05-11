@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @shinjansarkar
 - 👀 I’m interested in DevOps,Cloud
-- 🌱 I’m currently learning Python,Cloud,
+- 🌱 I’m currently learning Python 🐍,Cloud☁️
 - 📫 How to reach me shinjan-sarkar-544323251
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: ...
+- Tech Enthusiast 🚀
 
 <!---
 shinjansarkar/shinjansarkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
