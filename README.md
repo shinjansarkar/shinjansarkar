@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shinjan Sarkar</h1>
-<h3 align="center">A passionate Python, Cloud developer from India</h3>
+<h3 align="center">A passionate Python and Cloud developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shinjansarkar&label=Profile%20views&color=0e75b6&style=flat" alt="shinjansarkar" /> </p>
 
