@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shinjan Sarkar</h1>
-<h3 align="center">A passionate Python and Cloud developer from India</h3>
+<h3 align="center">A passionate Python, Cloud developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shinjansarkar&label=Profile%20views&color=0e75b6&style=flat" alt="shinjansarkar" /> </p>
 
@@ -20,10 +20,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shinjan_sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shinjan_sarkar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shinjan sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shinjan sarkar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shinjan-sarkar-544323251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shinjan-sarkar-544323251" height="30" width="40" /></a>
 <a href="https://instagram.com/shinjan_sarkar007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shinjan_sarkar007" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/shinjansarkar2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/shinjansarkar2" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@shinjansarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shinjansarkar" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/shinjansarkar2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shinjansarkar2" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shinjansarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shinjansarkar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
