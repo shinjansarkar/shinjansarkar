@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Weather App](https://github.com/shinjansarkar/Weather-App/tree/main)
 
-- 🌱 I’m currently learning **web scraping, Python Automation, Cloud computing,**
+- 🌱 I’m currently learning **Devops, Python Automation, Cloud computing,**
 
 - 🤝 I’m looking for help with **Web Scraping**
 
