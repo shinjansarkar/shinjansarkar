@@ -67,6 +67,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" alt="Apache" width="40" height="40"/>
+  <a href="https://github.com/topics/gihub" target="_blank" rel="noreferrer">
+    <img src="https://logos-world.net/wp-content/uploads/2020/11/GitHub-Logo.png" alt="Linux" width="80" height="45"/>
+  <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a>
+  
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shinjansarkar&show_icons=true&locale=en&layout=compact" alt="shinjansarkar" /></p>
 
