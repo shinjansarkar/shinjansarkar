@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 - 🎓 **Fresher** passionate about **DevOps & Cloud Engineering**
 - 🌱 Currently mastering **Python Automation**, **CI/CD Pipelines**, and **AWS**
@@ -77,19 +77,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shinjansarkar&theme=tokyo-night&hide_border=true" />
 </div>
 
----
-
-## 🎯 Current Learning Journey
-
-```yaml
-DevOps_Learning_Path:
-  Cloud_Platforms: ["AWS", "Azure (Planned)", "GCP (Future)"]
-  Automation: ["Python Scripts", "Bash Scripting", "Infrastructure as Code"]
-  Containerization: ["Docker", "Kubernetes", "Container Orchestration"]
-  CI_CD: ["Jenkins", "GitHub Actions", "GitLab CI"]
-  Monitoring: ["Grafana", "Prometheus", "CloudWatch"]
-  Infrastructure: ["Terraform", "Ansible", "Linux Administration"]
-```
 
 ---
 
@@ -108,16 +95,6 @@ DevOps_Learning_Path:
 
 ---
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🔧 [Getting Started with Docker for DevOps](#)
-- ☁️ [AWS Fundamentals: EC2 Best Practices](#)
-- 🐍 [Python Automation Scripts for Daily Tasks](#)
-- 🚀 [Building Your First CI/CD Pipeline](#)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 <div align="center">
   
